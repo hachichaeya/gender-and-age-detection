@@ -72,12 +72,6 @@ The model achieves an accuracy of over 90% on the validation set for both age an
 
 ![female](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image2'.png)
 ![male](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image3'.png)
-
-## Usage
-
-To use the model, simply provide an image of a person's face as input to the model, and the model will output the predicted age and gender of the person in the image.)
-![male](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/299b432d-2c05-46d0-a5e6-86ec841235d5)
-
 ## Usage
 
 To use the model, simply provide an image of a person's face as input to the model, and the model will output the predicted age and gender of the person in the image.
