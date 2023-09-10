@@ -70,7 +70,7 @@ Put the results on the image and display it
 The model achieves an accuracy of over 90% on the validation set for both age and gender predictions. The model is able to predict the correct age and gender for most images in the dataset, but there are some cases where the predictions are incorrect or ambiguous.
 ![02](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image4'.png)   ![38](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image5'.png)
 
-![female](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/c07a3dd3-b0fc-4e07-ac82-cea8eb277b71)
+![female](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image2'.png)
 ![male](https://github.com/hachichaeya/gender-and-age-detection/blob/main/Image3'.png)
 
 ## Usage
