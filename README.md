@@ -32,8 +32,6 @@ Put the results on the image and display it
 ## Results
 
 The model achieves an accuracy of over 90% on the validation set for both age and gender predictions. The model is able to predict the correct age and gender for most images in the dataset, but there are some cases where the predictions are incorrect or ambiguous.
-![02](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/0b58d06e-2f32-40a5-bf7d-542061a245e1)   ![38](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/3c41d9f5-058b-419c-ab46-f37826528bca)
-
 ![female](# Age and Gender Detection
 
 This is a machine learning project that uses computer vision techniques to detect the age and gender of a person in an image.
